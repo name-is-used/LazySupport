@@ -1,0 +1,11 @@
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Ali\bin\Debug\Lazy.Ali.dll
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Ali\bin\Debug\Lazy.Ali.pdb
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Ali\bin\Debug\AopSdk.dll
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Ali\obj\Debug\Lazy.Ali.csprojAssemblyReference.cache
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Ali\obj\Debug\Lazy.Ali.csproj.CopyComplete
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Ali\obj\Debug\Lazy.Ali.dll
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Ali\obj\Debug\Lazy.Ali.pdb
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Ali\bin\Debug\Lazy.Util.dll
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Ali\bin\Debug\Newtonsoft.Json.dll
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Ali\bin\Debug\Lazy.Util.pdb
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Ali\bin\Debug\Newtonsoft.Json.xml
