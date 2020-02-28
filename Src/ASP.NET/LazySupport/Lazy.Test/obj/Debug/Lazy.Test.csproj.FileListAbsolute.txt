@@ -28,6 +28,7 @@ E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\roslyn\vbc.rsp
 E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\roslyn\VBCSCompiler.exe
 E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\roslyn\VBCSCompiler.exe.config
 E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\Antlr3.Runtime.dll
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\Lazy.Ali.dll
 E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\Microsoft.Web.Infrastructure.dll
 E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\Newtonsoft.Json.dll
@@ -42,6 +43,9 @@ E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\System.Web.WebPages.
 E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\System.Web.WebPages.dll
 E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\System.Web.WebPages.Razor.dll
 E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\WebGrease.dll
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\AopSdk.dll
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\Lazy.Util.dll
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\Lazy.Ali.pdb
 E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\Newtonsoft.Json.xml
 E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\System.Net.Http.Formatting.xml
 E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\System.Web.Helpers.xml
@@ -55,6 +59,7 @@ E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\System.Web.WebPages.
 E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\System.Web.WebPages.Razor.xml
 E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\Antlr3.Runtime.pdb
 E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\Lazy.Util.pdb
 E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
 E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\zh-Hans\System.Web.Helpers.resources.dll
 E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\zh-Hans\System.Web.Http.resources.dll
@@ -69,3 +74,7 @@ E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\obj\Debug\Lazy.Test.cspr
 E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\obj\Debug\Lazy.Test.csproj.CopyComplete
 E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\obj\Debug\Lazy.Test.dll
 E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\obj\Debug\Lazy.Test.pdb
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\RestSharp.dll
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\RestSharp.xml
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\Lazy.WeChat.dll
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.Test\bin\Lazy.WeChat.pdb

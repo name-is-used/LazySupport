@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="RestSharp, Version=105.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.105.0.0\lib\net4\RestSharp.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -41,9 +44,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MiniProgram\AccessToken.cs" />
+    <Compile Include="MiniProgram\AccessTokenResult.cs" />
+    <Compile Include="MiniProgram\LineColor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QRCode\QRCodeBuilder.cs" />
-    <Compile Include="UtilMethod.cs" />
+    <Compile Include="MiniProgram\QRCode.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Lazy.Util\Lazy.Util.csproj">
@@ -52,7 +57,12 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Trade\" />
+    <Folder Include="App\" />
+    <Folder Include="H5\" />
+    <Folder Include="OfficialAccounts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

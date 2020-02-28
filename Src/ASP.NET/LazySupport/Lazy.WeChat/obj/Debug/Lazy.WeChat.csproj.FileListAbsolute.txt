@@ -1,0 +1,12 @@
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.WeChat\obj\Debug\Lazy.WeChat.csprojAssemblyReference.cache
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.WeChat\bin\Debug\Lazy.WeChat.dll
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.WeChat\bin\Debug\Lazy.WeChat.pdb
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.WeChat\bin\Debug\Lazy.Util.dll
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.WeChat\bin\Debug\RestSharp.dll
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.WeChat\bin\Debug\Newtonsoft.Json.dll
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.WeChat\bin\Debug\Lazy.Util.pdb
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.WeChat\bin\Debug\RestSharp.xml
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.WeChat\bin\Debug\Newtonsoft.Json.xml
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.WeChat\obj\Debug\Lazy.WeChat.csproj.CopyComplete
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.WeChat\obj\Debug\Lazy.WeChat.dll
+E:\github\LazySupport\Src\ASP.NET\LazySupport\Lazy.WeChat\obj\Debug\Lazy.WeChat.pdb

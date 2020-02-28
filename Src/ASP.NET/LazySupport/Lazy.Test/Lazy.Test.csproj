@@ -155,9 +155,7 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\SampleDirection.cs" />
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
-    <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\PayController.cs" />
-    <Compile Include="Controllers\ValuesController.cs" />
+    <Compile Include="Controllers\TestController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -251,6 +249,10 @@
     <ProjectReference Include="..\Lazy.Ali\Lazy.Ali.csproj">
       <Project>{d8d29501-cccd-4c2c-aff7-c00bec1aee29}</Project>
       <Name>Lazy.Ali</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Lazy.WeChat\Lazy.WeChat.csproj">
+      <Project>{ee42bbb9-ae99-435f-a327-e9fbf9b7064e}</Project>
+      <Name>Lazy.WeChat</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
